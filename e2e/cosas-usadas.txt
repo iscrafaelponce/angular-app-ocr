@@ -1,0 +1,13 @@
+https://brumm.af/shadows
+para sobras
+
+https://iconscout.com/unicons
+para iconos
+
+imagenes libres
+https://unsplash.com/photos/K0qKwBXqhQ8
+
+https://github.com/naptha/tesseract.js#tesseractjs
+npm install tesseract.js
+para el reconocimeinto de los caracteres
+
